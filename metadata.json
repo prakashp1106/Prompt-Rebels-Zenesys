@@ -1,0 +1,6 @@
+{
+  "name": "DocFixyy - AI Exception Investigator",
+  "description": "Enterprise AI business document intelligence and exception investigation platform. Normalizes multi-format documents, cross-compares PO/GRN/Invoices, detects root causes, recurring patterns, risk, and generates human-in-the-loop decision evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
